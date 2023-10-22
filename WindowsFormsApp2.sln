@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application des notes de frais", "application des notes de frais.csproj", "{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Debug|Default.Build.0 = Debug|Any CPU
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Release|Default.ActiveCfg = Release|Any CPU
+		{CEBC9029-4FC8-4DD1-B404-3A64E65854AA}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DE3625-F704-4906-A649-2F4D97FBB2C8}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
